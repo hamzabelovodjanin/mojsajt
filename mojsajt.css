@@ -1,0 +1,156 @@
+ .naslov { color: rgb(0, 255, 179); 
+    
+    font-family: Arial, Helvetica, sans-serif;
+    text-shadow: 2px 3px gray;
+    letter-spacing: 3px;
+    font-size: 52px;
+    
+    
+    
+    
+    
+
+}
+
+.uvod{
+    background-image: url(./194375f73beef7eabce32ea68985ab64.jpg);
+    width: 2000px;
+    height: 70px;
+
+}
+body {
+
+    background-image: url(HTkO7h.jpg) ;
+    background-size:cover 
+}
+
+.ikona {
+
+    float: left;
+    border-radius: 20px;
+    vertical-align: baseline;
+    
+}
+
+.uvod p {
+
+    padding-left: 15px;
+    padding-bottom: 10px;
+}
+
+
+
+
+.navigacije input {
+    text-align: center;
+
+}
+
+.navigacije {
+    background-color:rgb(0, 255, 179) ;
+    overflow: hidden;
+    border: 5px solid black;
+    
+}
+
+.navigacije a {
+    float: left;
+    color: rgb(6, 10, 12);
+    text-align: center;
+    padding: 16px 20px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+
+
+.searchbar {
+
+    float: right;
+    padding-top: 15px;
+    padding-right: 10px;
+}
+
+.navigacije a:hover { 
+    background-color: black;
+    color:  rgb(0, 255, 179) ;
+    transition: 1.5s;
+    
+
+}
+
+.navigacije a:active {
+
+    background-color: rgb(0, 255, 179) ;
+    color: rgb(0, 153, 255);
+}
+
+
+.omenii {
+    background-color: rgb(0, 255, 179) ;
+    padding: 40px;
+    margin-top: 5px;
+    margin-left: 80%;
+    border-radius: 50px;
+    padding-bottom: 200px;
+  
+
+}
+
+.podaci {
+
+    background-color: rgba(0, 255, 221, 0.562);
+    
+}
+
+.textovi {
+
+    display: grid;
+    grid-template-columns: 200px 200px 200px 5px;
+    justify-content: space-around;
+    width: 950px;
+    height: 800px;
+    float: left;
+    margin-top: 20px;
+    border-radius: 50px;
+    margin-left: 200px;
+    padding-bottom: 100px;
+    
+}
+
+.grid1 {
+    width: 250px;
+    height: 250px;
+    background-color: rgb(0, 255, 179);
+    padding-bottom: 70px;
+    border-radius: 5px;
+    text-align: center;
+    
+    
+    
+}
+
+.grid2 {
+    width: 250px;
+    height: 250px;
+    background-color: rgb(0, 255, 179);
+    padding-bottom: 70px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.grid3 {
+    width: 250px;
+    height: 250px;
+    background-color: rgb(0, 255, 179);
+    padding-bottom: 70px;
+    border-radius: 5px;
+    text-align: center;
+    
+
+}
+
+.textovi a {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
